@@ -17,6 +17,7 @@ In this project, I analyzed **UK employment data** using **Tableau Public** to e
 ✅ **Geospatial Analysis** – Visualized employment trends across regions using **Tableau Maps**.  
 ✅ **Hierarchical Data Representation** – Used a **Treemap** to showcase industry-level trends effectively.  
 ✅ **Dashboard Design** – Ensured a **clear, logical layout** for easy interpretation.  
+✅ **Tooltips & Labels** – Added **interactive tooltips** to provide additional information when hovering over the charts, enabling a deeper understanding of the data.  
 ✅ **City Selection Filter** – Added an interactive **city selection filter** to allow users to focus on employment data for specific cities, enhancing the user experience and flexibility.  
 
 
